@@ -2,7 +2,7 @@ from machine import Pin
 import time
 
 gp_led = 14  # Define GP de LED
-gp_sensor = 15 # Definen GP de sensor
+gp_sensor = 15 # Define GP de sensor
 
 led = Pin(gp_led, Pin.OUT) # El LED se lo define como salida
 sensor = Pin(gp_sensor, Pin.IN) # El sensor se lo define como de entrada
