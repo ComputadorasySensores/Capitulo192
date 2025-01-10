@@ -8,5 +8,4 @@ Código en MicroPython para detectar movimiento, si bien se utiliza la Raspberry
 # Paso a paso
 
 La explicación completa la podrás ver en el siguiente video de Youtube:
-
-
+https://youtu.be/W8A2qDFkfEw
